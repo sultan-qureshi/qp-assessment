@@ -25,7 +25,7 @@ This is a **Java Spring Boot REST API** for a **Grocery Booking System** that al
 
 ### 🔽 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/grocery-booking.git
+git clone https://github.com/sultan-qureshi/qp-assessment.git
 cd grocery-booking
 ```
 ### 🔨 2️⃣ Build the Project
